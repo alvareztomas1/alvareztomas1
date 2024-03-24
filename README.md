@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> My names is Tomás Alvarez 
 
-I am currently studing to become a full stack developer currently studying in [r/Argentina-Programa](https://argentinaprograma.com/). Also, looking to found a job to get experience, continue learning and where i can apply my knowleadge on a real enviroment. 
+I am currently studing to become a full stack developer currently studying in [r/Argentina-Programa](https://argentinaprograma.com/). Also, looking to found a job to get experience, continue learning and a place where i can apply my knowleadge on a real enviroment. 
 
 ### Contact
 
@@ -13,7 +13,7 @@ I am currently studing to become a full stack developer currently studying in [r
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
