@@ -2,14 +2,14 @@
 
 I am currently studing to become a full stack developer currently studying in [r/Argentina-Programa](https://argentinaprograma.com/). Also, looking to found a job to get experience, continue learning and a place where i can apply my knowleadge on a real enviroment. 
 
-### Contact
+## :email: Contact
 
-<a href="https://www.linkedin.com/in/tom%C3%A1salvarez/" target="_blank"><img src="https://img.shields.io/badge/-Tom%C3%A1s%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Tom%C3%A1s%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom%C3%A1salvarez/)](https://www.linkedin.com/in/tom%C3%A1salvarez/)
 [![Outlook Badge](https://img.shields.io/badge/-alvareztomas1%40outlook.es-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alvareztomas1@outlook.es)](mailto:alvareztomas1@outlook.es)
 
-### Portfolio
+## :briefcase: Portfolio
 
-<a href="https://alvareztomas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Alvarez%20Tomás%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white" alt="Alvarez Tomás Portfolio"></a>
+[![Alvarez Tomás Portfolio](https://img.shields.io/badge/-Alvarez%20Tomás%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://alvareztomas.vercel.app/)
 
 
 ## ⚡ Technologies
@@ -38,7 +38,7 @@ I am currently studing to become a full stack developer currently studying in [r
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 [![Bulma JS Badge](https://img.shields.io/badge/-Bulma_JS-00D1B2?style=flat-square&logo=bulma&logoColor=white)](https://bulma.io)
 
-## Testing:
+### Testing:
 [![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io)
 [![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io)
 
