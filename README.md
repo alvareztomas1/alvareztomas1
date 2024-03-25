@@ -1,6 +1,6 @@
-# Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> My names is Tomás Alvarez 
+# Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Tomás Alvarez 
 
-I am currently studing to become a full stack developer currently studying in [r/Argentina-Programa](https://argentinaprograma.com/). Also, looking to found a job to get experience, continue learning and a place where i can apply my knowleadge on a real enviroment. 
+I am currently studying to become a full stack developer through [r/Argentina-Programa](https://argentinaprograma.com/). Additionally, I am actively seeking job opportunities to gain experience, further my learning, and apply my skills in a real-world environment.
 
 ## :email: Contact
 
