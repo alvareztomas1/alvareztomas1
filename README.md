@@ -4,7 +4,7 @@ I am a full stack developer with experience in web development skilled in clean 
 
 ## :email: Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tom%C3%A1s%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom%C3%A1salvarez/)](https://www.linkedin.com/in/tom%C3%A1salvarez/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tom%C3%A1s%20Alvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom%C3%A1salvarez/)](https://www.linkedin.com/in/alvareztomas1/)
 [![Outlook Badge](https://img.shields.io/badge/-alvareztomas1%40outlook.es-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:alvareztomas1@outlook.es)](mailto:alvareztomas1@outlook.es)
 
 ## :briefcase: Portfolio
